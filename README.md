@@ -33,4 +33,4 @@ You can access the app [here](http://text-summary-nlp.herokuapp.com/)
 [Heroku](https://dashboard.heroku.com/) - App host
 
 # Author
-Marina Ramalhete de Souza - [Linkedin](https://www.linkedin.com/in/marinaramalhete/) [Github](https://github.com/marinaramalhete)
+Daniela L. Freire

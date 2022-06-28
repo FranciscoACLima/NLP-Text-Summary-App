@@ -120,7 +120,7 @@ def main():
             n_sent = st.sidebar.slider('Number of sentences (default is 2).', value=1)
             sumarize_text_english(uploaded_file, n_sent)
 
-        st.sidebar.info('Check out the project on [Github](https://github.com/marinaramalhete/NLP-Text-Summary-App)')
+        st.sidebar.info('Check out the project on [Github](https://github.com/DanielaLFreire/NLP-Text-Summary-App)')
 
 
 if __name__ == '__main__':

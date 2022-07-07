@@ -23,14 +23,9 @@ Use the following command to run the application:
 streamlit run summary-TJSP.py
 ```
 
-# Deployment
-#You can create your own app on Heroku platform. Follow [this](https://devcenter.heroku.com/)
-
-#You can access the app [here](http://text-summary-nlp.herokuapp.com/)
 
 # Built With
 [Streamlit](https://docs.streamlit.io/index.html) - The web framework
-##[Heroku](https://dashboard.heroku.com/) - App host
 
 # Author
 Daniela L. Freire

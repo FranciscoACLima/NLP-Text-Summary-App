@@ -428,11 +428,10 @@ def main():
     # st.image("logo.png", width=150)
     st.title('Experimento Inicial do Projeto TJSP')
     st.markdown("<h4 '>Sumarização de Texto com Processamento de Linguagem Natural</h4>", unsafe_allow_html=True)
-
+    # import pdb; pdb.set_trace()
     file_path, file_name = file_selector()
-
     try:
-        with open(file_path, 'r') as input:
+        with open(file_path, 'r', encoding='utf-8') as input:
             myfile = input.read()
     except FileNotFoundError:
         st.error('Arquivo não pode ser aberto.')
